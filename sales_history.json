@@ -1,0 +1,16 @@
+[
+    {
+        "customer": "Customer 1",
+        "item_sold": "A",
+        "cost": 1.0,
+        "money_given": 10.0,
+        "change_returned": 9.0
+    },
+    {
+        "customer": "Customer 2",
+        "item_sold": "B",
+        "cost": 2.0,
+        "money_given": 20.0,
+        "change_returned": 18.0
+    }
+]
